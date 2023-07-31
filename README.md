@@ -3,6 +3,9 @@
 This is the final project for CSCI8980-Spatial Enabled AI at the University of Minnesota-Twin Cities for Spring 2022.
 Authors: Bharath Sivaram (Neural Net code + paper) & Pranav Julakanti (RandomForest)
 
+![image](https://github.com/bharathsivaram10/InvasiveSpeciesPredict/assets/20588623/97f66e97-d303-4dfb-9e28-e27d56298e05)
+
+
 ## Background & Objective
 Invasive species cause havoc to the ecosystem, thereby creating issues in local economies as well. The impact can be mitigated by early 
 identification and treatment of areas prone to these species. 
