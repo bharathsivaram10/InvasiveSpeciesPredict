@@ -23,4 +23,7 @@ In this case, we use Minnesota DNR observation data to train a neural net and pr
 
 ## How to run
 
-1) Run predict.py
+1) Clone repo
+2) Download data file from using drive [link](https://drive.google.com/file/d/1r7P_eD6ybbM8muIdZ6kX65VODOBcExNY/view?usp=sharing)
+3) Run predict.py
+4) The preprocess.py gives information on how the information was extracted for network use
